@@ -1,4 +1,4 @@
-# Professional Website
+# My Professional Website
 
 Made using [github pages](https://pages.github.com/) and the [cayman](pages-themes.github.io/cayman/) theme
 
@@ -14,4 +14,4 @@ This project is licensed under [CC0](./LICENSE).
 ## Dependencies / Set-up / Running / Deploying
 You must have a [GitHub](https://github.com/) account and [create a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository).
 
-Please follow the guidelines at [Github Pages](https://pages.github.com/) or [Github Skills](https://skills.github.com/)
+Please follow the guidelines at [Github Pages](https://pages.github.com/) or [Github Skills](https://skills.github.com/).

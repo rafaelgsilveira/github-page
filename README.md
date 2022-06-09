@@ -2,7 +2,7 @@
 
 Made using [github pages](https://pages.github.com/) feature and the [cayman](pages-themes.github.io/cayman/) theme
 
-![Thumbnail of Cayman](thumbnail.png)
+![Logo](Ragasil_logo_cliped.png)
 
 ## Usage
 

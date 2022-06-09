@@ -1,26 +1,15 @@
 # Professional Website
 
-Made using [github pages](https://pages.github.com/) feature and the [cayman](pages-themes.github.io/cayman/) theme
+Made using [github pages](https://pages.github.com/) and the [cayman](pages-themes.github.io/cayman/) theme
 
 ![Logo](Ragasil_logo_cliped.png)
 
 ## Usage
 
-To use the Cayman theme:
+You may adapt this project as you see fit. Please feel free to reach me out emailing [contact@ragasil.com](mailto:contact@ragasil.com) for any doubts regarding this project.
 
-1. Add the following to your site's `_config.yml`:
-
-    ```yml
-    remote_theme: pages-themes/cayman@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+### License
+This project is licensed under the terms of the MIT license
 
 ## Customizing
 

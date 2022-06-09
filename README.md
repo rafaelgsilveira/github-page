@@ -6,7 +6,7 @@ Made using [github pages](https://pages.github.com/) and the [cayman](pages-them
 
 ## Usage
 
-You may adapt this project as you see fit. Please feel free to reach me out emailing [contact@ragasil.com](mailto:contact@ragasil.com) for any doubts regarding this project.
+You may adapt this project as you see fit. Please feel free to reach out to me emailing [contact@ragasil.com](mailto:contact@ragasil.com) for any doubts regarding this project.
 
 ### License
 This project is licensed under the terms of the MIT license

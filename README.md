@@ -9,7 +9,7 @@ Made using [github pages](https://pages.github.com/) and the [cayman](pages-them
 You may adapt this project as you see fit. Please feel free to reach out to me emailing [contact@ragasil.com](mailto:contact@ragasil.com) for any doubts regarding this project.
 
 ### License
-This project is licensed under the terms of the MIT license
+This project is licensed under [CC0](./LICENSE).
 
 ## Customizing
 

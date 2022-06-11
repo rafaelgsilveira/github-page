@@ -19,4 +19,4 @@ Please follow the guidelines at [Github Pages](https://pages.github.com/) or [Gi
 ## Acknowledgements
 
 * Template based on [Cayman](https://github.com/pages-themes/cayman).
-* README inspired on [@mldangelo](https://github.com/mldangelo)'s pernonal site.
+* README inspired on [@mldangelo](https://github.com/mldangelo)'s pernonal-site project.

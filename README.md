@@ -1,5 +1,9 @@
 # My Professional Website
 
+This is a project I am making aiming to learn how to use Github Pages and Makdown Language.
+
+Please note that this is an ONGOING project.
+
 Made using [github pages](https://pages.github.com/) and the [cayman](pages-themes.github.io/cayman/) theme
 
 ![Logo](Ragasil_logo_cliped.png)
